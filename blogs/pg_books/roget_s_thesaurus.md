@@ -400,12 +400,3 @@ has_children: false
   </div>
 </div>
 </div>
-
-<h2>Book Video</h2>
-<div class="video-container">
-  <video controls width="100%">
-    <source src="../../assets/pg_books_ai_generated_videos/roget_s_thesaurus.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-

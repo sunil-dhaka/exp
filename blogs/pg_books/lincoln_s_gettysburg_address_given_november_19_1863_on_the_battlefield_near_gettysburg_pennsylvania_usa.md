@@ -67,12 +67,3 @@ has_children: false
   </div>
 </div>
 </div>
-
-<h2>Book Video</h2>
-<div class="video-container">
-  <video controls width="100%">
-    <source src="../../assets/pg_books_ai_generated_videos/lincoln_s_gettysburg_address_given_november_19_1863_on_the_battlefield_near_gettysburg_pennsylvania_usa.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-

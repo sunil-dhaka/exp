@@ -84,12 +84,3 @@ has_children: false
   </div>
 </div>
 </div>
-
-<h2>Book Video</h2>
-<div class="video-container">
-  <video controls width="100%">
-    <source src="../../assets/pg_books_ai_generated_videos/the_declaration_of_independence_of_the_united_states_of_america.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-

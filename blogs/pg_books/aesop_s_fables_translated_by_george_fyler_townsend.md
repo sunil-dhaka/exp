@@ -81,12 +81,3 @@ has_children: false
 </div>
 </div>
 
-
-<h2>Book Video</h2>
-<div class="video-container">
-  <video controls width="100%">
-    <source src="../../assets/pg_books_ai_generated_videos/aesop_s_fables_translated_by_george_fyler_townsend.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
