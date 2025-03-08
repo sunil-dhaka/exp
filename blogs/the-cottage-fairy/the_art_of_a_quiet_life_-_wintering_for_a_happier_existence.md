@@ -12,7 +12,6 @@ nav_order: 123
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/the_art_of_a_quiet_life_-_wintering_for_a_happier_existence-[xHvvMGHmwuU]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 123
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/the_art_of_a_quiet_life_-_wintering_for_a_happier_existence-[xHvvMGHmwuU]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/the_art_of_a_quiet_life_-_wintering_for_a_happier_existence-[xHvvMGHmwuU]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/the_art_of_a_quiet_life_-_wintering_for_a_happier_existence-[xHvvMGHmwuU]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/the_art_of_a_quiet_life_-_wintering_for_a_happier_existence-[xHvvMGHmwuU]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

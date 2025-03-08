@@ -12,7 +12,6 @@ nav_order: 91
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/how_I_thrive_when_life_is_too_much_-_overcoming_crippling_anxiety_one_day_at_a_time_a_gentle_story-[huio_O08Gws]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 91
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/how_I_thrive_when_life_is_too_much_-_overcoming_crippling_anxiety_one_day_at_a_time_a_gentle_story-[huio_O08Gws]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/how_I_thrive_when_life_is_too_much_-_overcoming_crippling_anxiety_one_day_at_a_time_a_gentle_story-[huio_O08Gws]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/how_I_thrive_when_life_is_too_much_-_overcoming_crippling_anxiety_one_day_at_a_time_a_gentle_story-[huio_O08Gws]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/how_I_thrive_when_life_is_too_much_-_overcoming_crippling_anxiety_one_day_at_a_time_a_gentle_story-[huio_O08Gws]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

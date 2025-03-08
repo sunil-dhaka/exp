@@ -12,7 +12,6 @@ nav_order: 71
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/an_evening_self-care_routine_at_the_cottage-[UKX2_OJtMfA]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 71
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/an_evening_self-care_routine_at_the_cottage-[UKX2_OJtMfA]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/an_evening_self-care_routine_at_the_cottage-[UKX2_OJtMfA]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/an_evening_self-care_routine_at_the_cottage-[UKX2_OJtMfA]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/an_evening_self-care_routine_at_the_cottage-[UKX2_OJtMfA]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

@@ -12,7 +12,6 @@ nav_order: 5
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/Creating_my_Dream_Home_Library_-_my_book_collection_and_favorite_stories-[-uOBJoT_j8Y]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 5
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/Creating_my_Dream_Home_Library_-_my_book_collection_and_favorite_stories-[-uOBJoT_j8Y]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/Creating_my_Dream_Home_Library_-_my_book_collection_and_favorite_stories-[-uOBJoT_j8Y]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/Creating_my_Dream_Home_Library_-_my_book_collection_and_favorite_stories-[-uOBJoT_j8Y]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/Creating_my_Dream_Home_Library_-_my_book_collection_and_favorite_stories-[-uOBJoT_j8Y]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

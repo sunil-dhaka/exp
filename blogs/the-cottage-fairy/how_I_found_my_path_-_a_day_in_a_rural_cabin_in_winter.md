@@ -12,7 +12,6 @@ nav_order: 87
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/how_I_found_my_path_-_a_day_in_a_rural_cabin_in_winter-[1n_4ZOUAYFw]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 87
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/how_I_found_my_path_-_a_day_in_a_rural_cabin_in_winter-[1n_4ZOUAYFw]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/how_I_found_my_path_-_a_day_in_a_rural_cabin_in_winter-[1n_4ZOUAYFw]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/how_I_found_my_path_-_a_day_in_a_rural_cabin_in_winter-[1n_4ZOUAYFw]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/how_I_found_my_path_-_a_day_in_a_rural_cabin_in_winter-[1n_4ZOUAYFw]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

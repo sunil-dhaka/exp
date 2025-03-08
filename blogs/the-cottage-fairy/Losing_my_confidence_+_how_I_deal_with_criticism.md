@@ -12,7 +12,6 @@ nav_order: 42
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/Losing_my_confidence_+_how_I_deal_with_criticism-[uCLtDExp3ac]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 42
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/Losing_my_confidence_+_how_I_deal_with_criticism-[uCLtDExp3ac]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/Losing_my_confidence_+_how_I_deal_with_criticism-[uCLtDExp3ac]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/Losing_my_confidence_+_how_I_deal_with_criticism-[uCLtDExp3ac]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/Losing_my_confidence_+_how_I_deal_with_criticism-[uCLtDExp3ac]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

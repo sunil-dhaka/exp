@@ -12,7 +12,6 @@ nav_order: 23
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/I_don_t_know_how_to_be_an_adult_in_this_world-[Yf-xNfRkX_Q]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 23
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/I_don_t_know_how_to_be_an_adult_in_this_world-[Yf-xNfRkX_Q]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/I_don_t_know_how_to_be_an_adult_in_this_world-[Yf-xNfRkX_Q]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/I_don_t_know_how_to_be_an_adult_in_this_world-[Yf-xNfRkX_Q]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/I_don_t_know_how_to_be_an_adult_in_this_world-[Yf-xNfRkX_Q]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

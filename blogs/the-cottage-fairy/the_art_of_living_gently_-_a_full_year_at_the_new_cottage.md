@@ -12,7 +12,6 @@ nav_order: 125
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/the_art_of_living_gently_-_a_full_year_at_the_new_cottage-[JIv2Cq_YEYM]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 125
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/the_art_of_living_gently_-_a_full_year_at_the_new_cottage-[JIv2Cq_YEYM]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/the_art_of_living_gently_-_a_full_year_at_the_new_cottage-[JIv2Cq_YEYM]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/the_art_of_living_gently_-_a_full_year_at_the_new_cottage-[JIv2Cq_YEYM]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/the_art_of_living_gently_-_a_full_year_at_the_new_cottage-[JIv2Cq_YEYM]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

@@ -12,7 +12,6 @@ nav_order: 114
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/on_living_a_boring_life_-_accepting_a_gentle_daily_existence-[Lm5CG0rDyvk]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 114
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/on_living_a_boring_life_-_accepting_a_gentle_daily_existence-[Lm5CG0rDyvk]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/on_living_a_boring_life_-_accepting_a_gentle_daily_existence-[Lm5CG0rDyvk]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/on_living_a_boring_life_-_accepting_a_gentle_daily_existence-[Lm5CG0rDyvk]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/on_living_a_boring_life_-_accepting_a_gentle_daily_existence-[Lm5CG0rDyvk]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

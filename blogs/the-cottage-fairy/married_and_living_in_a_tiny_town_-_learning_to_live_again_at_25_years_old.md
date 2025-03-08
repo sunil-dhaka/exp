@@ -12,7 +12,6 @@ nav_order: 100
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/married_and_living_in_a_tiny_town_-_learning_to_live_again_at_25_years_old-[J1_IvXio770]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 100
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/married_and_living_in_a_tiny_town_-_learning_to_live_again_at_25_years_old-[J1_IvXio770]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/married_and_living_in_a_tiny_town_-_learning_to_live_again_at_25_years_old-[J1_IvXio770]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/married_and_living_in_a_tiny_town_-_learning_to_live_again_at_25_years_old-[J1_IvXio770]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/married_and_living_in_a_tiny_town_-_learning_to_live_again_at_25_years_old-[J1_IvXio770]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

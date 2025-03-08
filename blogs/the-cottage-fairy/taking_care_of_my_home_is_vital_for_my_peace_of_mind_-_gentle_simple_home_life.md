@@ -12,7 +12,6 @@ nav_order: 122
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/taking_care_of_my_home_is_vital_for_my_peace_of_mind_-_gentle_simple_home_life-[1ZJ7z2VsSUE]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 122
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/taking_care_of_my_home_is_vital_for_my_peace_of_mind_-_gentle_simple_home_life-[1ZJ7z2VsSUE]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/taking_care_of_my_home_is_vital_for_my_peace_of_mind_-_gentle_simple_home_life-[1ZJ7z2VsSUE]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/taking_care_of_my_home_is_vital_for_my_peace_of_mind_-_gentle_simple_home_life-[1ZJ7z2VsSUE]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/taking_care_of_my_home_is_vital_for_my_peace_of_mind_-_gentle_simple_home_life-[1ZJ7z2VsSUE]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

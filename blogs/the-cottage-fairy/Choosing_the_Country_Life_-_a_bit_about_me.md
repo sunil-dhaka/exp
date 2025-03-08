@@ -12,7 +12,6 @@ nav_order: 2
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/Choosing_the_Country_Life_-_a_bit_about_me-[Vb6xitXKQDs]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 2
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/Choosing_the_Country_Life_-_a_bit_about_me-[Vb6xitXKQDs]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/Choosing_the_Country_Life_-_a_bit_about_me-[Vb6xitXKQDs]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/Choosing_the_Country_Life_-_a_bit_about_me-[Vb6xitXKQDs]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/Choosing_the_Country_Life_-_a_bit_about_me-[Vb6xitXKQDs]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

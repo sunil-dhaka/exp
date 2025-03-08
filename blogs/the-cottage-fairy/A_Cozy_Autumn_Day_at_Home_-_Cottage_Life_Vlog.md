@@ -12,7 +12,6 @@ nav_order: 1
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/A_Cozy_Autumn_Day_at_Home_-_Cottage_Life_Vlog-[yGLrEH_fN6E]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 1
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/A_Cozy_Autumn_Day_at_Home_-_Cottage_Life_Vlog-[yGLrEH_fN6E]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/A_Cozy_Autumn_Day_at_Home_-_Cottage_Life_Vlog-[yGLrEH_fN6E]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/A_Cozy_Autumn_Day_at_Home_-_Cottage_Life_Vlog-[yGLrEH_fN6E]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/A_Cozy_Autumn_Day_at_Home_-_Cottage_Life_Vlog-[yGLrEH_fN6E]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

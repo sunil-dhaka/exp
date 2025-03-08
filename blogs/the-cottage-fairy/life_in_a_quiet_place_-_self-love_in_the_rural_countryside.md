@@ -12,7 +12,6 @@ nav_order: 97
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/life_in_a_quiet_place_-_self-love_in_the_rural_countryside-[YzR8mofGiJE]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 97
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/life_in_a_quiet_place_-_self-love_in_the_rural_countryside-[YzR8mofGiJE]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/life_in_a_quiet_place_-_self-love_in_the_rural_countryside-[YzR8mofGiJE]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/life_in_a_quiet_place_-_self-love_in_the_rural_countryside-[YzR8mofGiJE]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/life_in_a_quiet_place_-_self-love_in_the_rural_countryside-[YzR8mofGiJE]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

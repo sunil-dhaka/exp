@@ -12,7 +12,6 @@ nav_order: 9
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/How_I_Keep_Daily_Life_Interesting_and_Magical_-_when_mid-winter_feels_mundane-[hzHFxIAnyMY]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 9
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/How_I_Keep_Daily_Life_Interesting_and_Magical_-_when_mid-winter_feels_mundane-[hzHFxIAnyMY]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/How_I_Keep_Daily_Life_Interesting_and_Magical_-_when_mid-winter_feels_mundane-[hzHFxIAnyMY]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/How_I_Keep_Daily_Life_Interesting_and_Magical_-_when_mid-winter_feels_mundane-[hzHFxIAnyMY]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/How_I_Keep_Daily_Life_Interesting_and_Magical_-_when_mid-winter_feels_mundane-[hzHFxIAnyMY]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

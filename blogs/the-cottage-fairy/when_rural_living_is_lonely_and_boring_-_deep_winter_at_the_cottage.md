@@ -12,7 +12,6 @@ nav_order: 134
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/when_rural_living_is_lonely_and_boring_-_deep_winter_at_the_cottage-[EkndppFl7wA]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 134
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/when_rural_living_is_lonely_and_boring_-_deep_winter_at_the_cottage-[EkndppFl7wA]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/when_rural_living_is_lonely_and_boring_-_deep_winter_at_the_cottage-[EkndppFl7wA]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/when_rural_living_is_lonely_and_boring_-_deep_winter_at_the_cottage-[EkndppFl7wA]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/when_rural_living_is_lonely_and_boring_-_deep_winter_at_the_cottage-[EkndppFl7wA]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

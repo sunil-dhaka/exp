@@ -12,7 +12,6 @@ nav_order: 118
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/rest_is_not_idleness_-_another_pace_of_life_in_a_forest_cottage-[a6JnJog6Xsw]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 118
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/rest_is_not_idleness_-_another_pace_of_life_in_a_forest_cottage-[a6JnJog6Xsw]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/rest_is_not_idleness_-_another_pace_of_life_in_a_forest_cottage-[a6JnJog6Xsw]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/rest_is_not_idleness_-_another_pace_of_life_in_a_forest_cottage-[a6JnJog6Xsw]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/rest_is_not_idleness_-_another_pace_of_life_in_a_forest_cottage-[a6JnJog6Xsw]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

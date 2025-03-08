@@ -12,7 +12,6 @@ nav_order: 67
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/a_perfect_day_at_home_-_springtime_cottage_vlog-[3Qv2K_0GEE0]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 67
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/a_perfect_day_at_home_-_springtime_cottage_vlog-[3Qv2K_0GEE0]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/a_perfect_day_at_home_-_springtime_cottage_vlog-[3Qv2K_0GEE0]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/a_perfect_day_at_home_-_springtime_cottage_vlog-[3Qv2K_0GEE0]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/a_perfect_day_at_home_-_springtime_cottage_vlog-[3Qv2K_0GEE0]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

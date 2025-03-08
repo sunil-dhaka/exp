@@ -12,7 +12,6 @@ nav_order: 95
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/life_at_a_bookshop_in_winter_-_my_passion_for_reading_heals_me-[Qz9WIa0DAdM]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 95
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/life_at_a_bookshop_in_winter_-_my_passion_for_reading_heals_me-[Qz9WIa0DAdM]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/life_at_a_bookshop_in_winter_-_my_passion_for_reading_heals_me-[Qz9WIa0DAdM]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/life_at_a_bookshop_in_winter_-_my_passion_for_reading_heals_me-[Qz9WIa0DAdM]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/life_at_a_bookshop_in_winter_-_my_passion_for_reading_heals_me-[Qz9WIa0DAdM]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

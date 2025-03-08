@@ -12,7 +12,6 @@ nav_order: 76
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/choosing_to_accept_your_personality_-_a_New_Year_Resolve-[YXrA6df3dqU]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 76
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/choosing_to_accept_your_personality_-_a_New_Year_Resolve-[YXrA6df3dqU]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/choosing_to_accept_your_personality_-_a_New_Year_Resolve-[YXrA6df3dqU]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/choosing_to_accept_your_personality_-_a_New_Year_Resolve-[YXrA6df3dqU]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/choosing_to_accept_your_personality_-_a_New_Year_Resolve-[YXrA6df3dqU]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

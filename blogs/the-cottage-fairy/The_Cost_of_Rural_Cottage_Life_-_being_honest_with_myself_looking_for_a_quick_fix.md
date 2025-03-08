@@ -12,7 +12,6 @@ nav_order: 50
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/The_Cost_of_Rural_Cottage_Life_-_being_honest_with_myself_looking_for_a_quick_fix-[OHucv0YV9c4]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 50
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/The_Cost_of_Rural_Cottage_Life_-_being_honest_with_myself_looking_for_a_quick_fix-[OHucv0YV9c4]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/The_Cost_of_Rural_Cottage_Life_-_being_honest_with_myself_looking_for_a_quick_fix-[OHucv0YV9c4]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/The_Cost_of_Rural_Cottage_Life_-_being_honest_with_myself_looking_for_a_quick_fix-[OHucv0YV9c4]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/The_Cost_of_Rural_Cottage_Life_-_being_honest_with_myself_looking_for_a_quick_fix-[OHucv0YV9c4]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

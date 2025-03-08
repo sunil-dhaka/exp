@@ -12,7 +12,6 @@ nav_order: 119
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/rethinking_how_I_spend_my_time_-_slow_living_vlog-[ywMO0enFiFo]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 119
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/rethinking_how_I_spend_my_time_-_slow_living_vlog-[ywMO0enFiFo]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/rethinking_how_I_spend_my_time_-_slow_living_vlog-[ywMO0enFiFo]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/rethinking_how_I_spend_my_time_-_slow_living_vlog-[ywMO0enFiFo]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/rethinking_how_I_spend_my_time_-_slow_living_vlog-[ywMO0enFiFo]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

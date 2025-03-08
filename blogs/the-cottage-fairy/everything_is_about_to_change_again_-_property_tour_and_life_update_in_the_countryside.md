@@ -12,7 +12,6 @@ nav_order: 81
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/everything_is_about_to_change_again_-_property_tour_and_life_update_in_the_countryside-[JoZLSuB7LLI]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 81
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/everything_is_about_to_change_again_-_property_tour_and_life_update_in_the_countryside-[JoZLSuB7LLI]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/everything_is_about_to_change_again_-_property_tour_and_life_update_in_the_countryside-[JoZLSuB7LLI]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/everything_is_about_to_change_again_-_property_tour_and_life_update_in_the_countryside-[JoZLSuB7LLI]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/everything_is_about_to_change_again_-_property_tour_and_life_update_in_the_countryside-[JoZLSuB7LLI]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

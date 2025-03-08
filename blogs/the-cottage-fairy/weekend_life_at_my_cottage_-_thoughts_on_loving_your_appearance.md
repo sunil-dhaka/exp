@@ -12,7 +12,6 @@ nav_order: 133
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/weekend_life_at_my_cottage_-_thoughts_on_loving_your_appearance-[wU_xwCfMEVk]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 133
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/weekend_life_at_my_cottage_-_thoughts_on_loving_your_appearance-[wU_xwCfMEVk]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/weekend_life_at_my_cottage_-_thoughts_on_loving_your_appearance-[wU_xwCfMEVk]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/weekend_life_at_my_cottage_-_thoughts_on_loving_your_appearance-[wU_xwCfMEVk]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/weekend_life_at_my_cottage_-_thoughts_on_loving_your_appearance-[wU_xwCfMEVk]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

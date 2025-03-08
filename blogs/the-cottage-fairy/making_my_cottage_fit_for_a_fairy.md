@@ -12,7 +12,6 @@ nav_order: 99
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/making_my_cottage_fit_for_a_fairy-[SesSpMP7eMs]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 99
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/making_my_cottage_fit_for_a_fairy-[SesSpMP7eMs]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/making_my_cottage_fit_for_a_fairy-[SesSpMP7eMs]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/making_my_cottage_fit_for_a_fairy-[SesSpMP7eMs]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/making_my_cottage_fit_for_a_fairy-[SesSpMP7eMs]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

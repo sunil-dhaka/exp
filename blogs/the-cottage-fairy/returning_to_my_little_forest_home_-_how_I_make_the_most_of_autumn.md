@@ -12,7 +12,6 @@ nav_order: 120
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/returning_to_my_little_forest_home_-_how_I_make_the_most_of_autumn-[txO-EY69vcI]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 120
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/returning_to_my_little_forest_home_-_how_I_make_the_most_of_autumn-[txO-EY69vcI]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/returning_to_my_little_forest_home_-_how_I_make_the_most_of_autumn-[txO-EY69vcI]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/returning_to_my_little_forest_home_-_how_I_make_the_most_of_autumn-[txO-EY69vcI]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/returning_to_my_little_forest_home_-_how_I_make_the_most_of_autumn-[txO-EY69vcI]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

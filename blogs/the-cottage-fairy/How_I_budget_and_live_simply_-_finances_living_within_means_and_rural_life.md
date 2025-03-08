@@ -12,7 +12,6 @@ nav_order: 10
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/How_I_budget_and_live_simply_-_finances_living_within_means_and_rural_life-[o7GyFa90klg]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 10
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/How_I_budget_and_live_simply_-_finances_living_within_means_and_rural_life-[o7GyFa90klg]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/How_I_budget_and_live_simply_-_finances_living_within_means_and_rural_life-[o7GyFa90klg]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/How_I_budget_and_live_simply_-_finances_living_within_means_and_rural_life-[o7GyFa90klg]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/How_I_budget_and_live_simply_-_finances_living_within_means_and_rural_life-[o7GyFa90klg]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

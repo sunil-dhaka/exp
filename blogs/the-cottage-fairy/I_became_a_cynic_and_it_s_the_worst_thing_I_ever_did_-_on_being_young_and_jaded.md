@@ -12,7 +12,6 @@ nav_order: 20
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/I_became_a_cynic_and_it_s_the_worst_thing_I_ever_did_-_on_being_young_and_jaded-[5LyksSB6APY]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 20
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/I_became_a_cynic_and_it_s_the_worst_thing_I_ever_did_-_on_being_young_and_jaded-[5LyksSB6APY]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/I_became_a_cynic_and_it_s_the_worst_thing_I_ever_did_-_on_being_young_and_jaded-[5LyksSB6APY]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/I_became_a_cynic_and_it_s_the_worst_thing_I_ever_did_-_on_being_young_and_jaded-[5LyksSB6APY]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/I_became_a_cynic_and_it_s_the_worst_thing_I_ever_did_-_on_being_young_and_jaded-[5LyksSB6APY]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

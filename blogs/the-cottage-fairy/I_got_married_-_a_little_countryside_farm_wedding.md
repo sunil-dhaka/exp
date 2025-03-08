@@ -12,7 +12,6 @@ nav_order: 25
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/I_got_married_-_a_little_countryside_farm_wedding-[PS0gXPNBZy8]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 25
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/I_got_married_-_a_little_countryside_farm_wedding-[PS0gXPNBZy8]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/I_got_married_-_a_little_countryside_farm_wedding-[PS0gXPNBZy8]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/I_got_married_-_a_little_countryside_farm_wedding-[PS0gXPNBZy8]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/I_got_married_-_a_little_countryside_farm_wedding-[PS0gXPNBZy8]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

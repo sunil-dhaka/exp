@@ -12,7 +12,6 @@ nav_order: 37
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/I_went_back_to_my_old_cottage-[1zsnFUvrFDc]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 37
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/I_went_back_to_my_old_cottage-[1zsnFUvrFDc]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/I_went_back_to_my_old_cottage-[1zsnFUvrFDc]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/I_went_back_to_my_old_cottage-[1zsnFUvrFDc]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/I_went_back_to_my_old_cottage-[1zsnFUvrFDc]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

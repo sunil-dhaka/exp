@@ -12,7 +12,6 @@ nav_order: 24
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/I_found_a_cabin_in_the_forest_-_searching_for_a_new_house_-_renovating_a_barn-[DUAmuCYTQjk]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 24
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/I_found_a_cabin_in_the_forest_-_searching_for_a_new_house_-_renovating_a_barn-[DUAmuCYTQjk]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/I_found_a_cabin_in_the_forest_-_searching_for_a_new_house_-_renovating_a_barn-[DUAmuCYTQjk]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/I_found_a_cabin_in_the_forest_-_searching_for_a_new_house_-_renovating_a_barn-[DUAmuCYTQjk]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/I_found_a_cabin_in_the_forest_-_searching_for_a_new_house_-_renovating_a_barn-[DUAmuCYTQjk]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

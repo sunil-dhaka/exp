@@ -12,7 +12,6 @@ nav_order: 96
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/life_away_from_home_-_a_day_at_a_vintage_style_tiny_home_and_garden-[Lpii3hmeqNg]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 96
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/life_away_from_home_-_a_day_at_a_vintage_style_tiny_home_and_garden-[Lpii3hmeqNg]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/life_away_from_home_-_a_day_at_a_vintage_style_tiny_home_and_garden-[Lpii3hmeqNg]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/life_away_from_home_-_a_day_at_a_vintage_style_tiny_home_and_garden-[Lpii3hmeqNg]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/life_away_from_home_-_a_day_at_a_vintage_style_tiny_home_and_garden-[Lpii3hmeqNg]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

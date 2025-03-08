@@ -12,7 +12,6 @@ nav_order: 117
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/putting_the_finishing_touches_on_my_treehouse_cottage_-_fairytale_home-[gINfZbRiOLg]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 117
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/putting_the_finishing_touches_on_my_treehouse_cottage_-_fairytale_home-[gINfZbRiOLg]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/putting_the_finishing_touches_on_my_treehouse_cottage_-_fairytale_home-[gINfZbRiOLg]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/putting_the_finishing_touches_on_my_treehouse_cottage_-_fairytale_home-[gINfZbRiOLg]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/putting_the_finishing_touches_on_my_treehouse_cottage_-_fairytale_home-[gINfZbRiOLg]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

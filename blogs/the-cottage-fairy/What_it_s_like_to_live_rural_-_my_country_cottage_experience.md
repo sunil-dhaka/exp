@@ -12,7 +12,6 @@ nav_order: 59
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/What_it_s_like_to_live_rural_-_my_country_cottage_experience-[XOXeNdhiIC4]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 59
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/What_it_s_like_to_live_rural_-_my_country_cottage_experience-[XOXeNdhiIC4]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/What_it_s_like_to_live_rural_-_my_country_cottage_experience-[XOXeNdhiIC4]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/What_it_s_like_to_live_rural_-_my_country_cottage_experience-[XOXeNdhiIC4]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/What_it_s_like_to_live_rural_-_my_country_cottage_experience-[XOXeNdhiIC4]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

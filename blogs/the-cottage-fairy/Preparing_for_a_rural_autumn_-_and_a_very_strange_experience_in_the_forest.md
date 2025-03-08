@@ -12,7 +12,6 @@ nav_order: 46
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/Preparing_for_a_rural_autumn_-_and_a_very_strange_experience_in_the_forest-[9Bf5GCngTpY]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 46
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/Preparing_for_a_rural_autumn_-_and_a_very_strange_experience_in_the_forest-[9Bf5GCngTpY]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/Preparing_for_a_rural_autumn_-_and_a_very_strange_experience_in_the_forest-[9Bf5GCngTpY]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/Preparing_for_a_rural_autumn_-_and_a_very_strange_experience_in_the_forest-[9Bf5GCngTpY]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/Preparing_for_a_rural_autumn_-_and_a_very_strange_experience_in_the_forest-[9Bf5GCngTpY]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

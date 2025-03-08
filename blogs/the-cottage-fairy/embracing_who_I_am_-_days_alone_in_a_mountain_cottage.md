@@ -12,7 +12,6 @@ nav_order: 78
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/embracing_who_I_am_-_days_alone_in_a_mountain_cottage-[pVU3Wl9fT_Q]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 78
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/embracing_who_I_am_-_days_alone_in_a_mountain_cottage-[pVU3Wl9fT_Q]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/embracing_who_I_am_-_days_alone_in_a_mountain_cottage-[pVU3Wl9fT_Q]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/embracing_who_I_am_-_days_alone_in_a_mountain_cottage-[pVU3Wl9fT_Q]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/embracing_who_I_am_-_days_alone_in_a_mountain_cottage-[pVU3Wl9fT_Q]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

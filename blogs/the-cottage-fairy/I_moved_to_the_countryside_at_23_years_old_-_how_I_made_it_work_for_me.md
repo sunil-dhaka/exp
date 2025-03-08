@@ -12,7 +12,6 @@ nav_order: 32
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/I_moved_to_the_countryside_at_23_years_old_-_how_I_made_it_work_for_me-[mmlfpNS_ruA]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 32
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/I_moved_to_the_countryside_at_23_years_old_-_how_I_made_it_work_for_me-[mmlfpNS_ruA]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/I_moved_to_the_countryside_at_23_years_old_-_how_I_made_it_work_for_me-[mmlfpNS_ruA]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/I_moved_to_the_countryside_at_23_years_old_-_how_I_made_it_work_for_me-[mmlfpNS_ruA]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/I_moved_to_the_countryside_at_23_years_old_-_how_I_made_it_work_for_me-[mmlfpNS_ruA]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

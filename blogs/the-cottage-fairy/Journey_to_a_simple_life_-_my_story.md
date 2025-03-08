@@ -12,7 +12,6 @@ nav_order: 39
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/Journey_to_a_simple_life_-_my_story-[3Wd70GBa62c]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 39
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/Journey_to_a_simple_life_-_my_story-[3Wd70GBa62c]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/Journey_to_a_simple_life_-_my_story-[3Wd70GBa62c]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/Journey_to_a_simple_life_-_my_story-[3Wd70GBa62c]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/Journey_to_a_simple_life_-_my_story-[3Wd70GBa62c]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

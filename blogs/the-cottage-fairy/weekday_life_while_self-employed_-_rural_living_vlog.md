@@ -12,7 +12,6 @@ nav_order: 132
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/weekday_life_while_self-employed_-_rural_living_vlog-[kbBxCfHzpfI]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 132
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/weekday_life_while_self-employed_-_rural_living_vlog-[kbBxCfHzpfI]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/weekday_life_while_self-employed_-_rural_living_vlog-[kbBxCfHzpfI]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/weekday_life_while_self-employed_-_rural_living_vlog-[kbBxCfHzpfI]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/weekday_life_while_self-employed_-_rural_living_vlog-[kbBxCfHzpfI]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

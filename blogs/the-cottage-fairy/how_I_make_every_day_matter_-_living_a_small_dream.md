@@ -12,7 +12,6 @@ nav_order: 88
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/how_I_make_every_day_matter_-_living_a_small_dream-[mdkX_H1dc-A]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 88
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/how_I_make_every_day_matter_-_living_a_small_dream-[mdkX_H1dc-A]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/how_I_make_every_day_matter_-_living_a_small_dream-[mdkX_H1dc-A]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/how_I_make_every_day_matter_-_living_a_small_dream-[mdkX_H1dc-A]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/how_I_make_every_day_matter_-_living_a_small_dream-[mdkX_H1dc-A]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

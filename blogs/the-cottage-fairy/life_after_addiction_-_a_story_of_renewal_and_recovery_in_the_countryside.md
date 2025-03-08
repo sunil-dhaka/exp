@@ -12,7 +12,6 @@ nav_order: 93
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/life_after_addiction_-_a_story_of_renewal_and_recovery_in_the_countryside-[jd28-FKH9ho]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 93
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/life_after_addiction_-_a_story_of_renewal_and_recovery_in_the_countryside-[jd28-FKH9ho]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/life_after_addiction_-_a_story_of_renewal_and_recovery_in_the_countryside-[jd28-FKH9ho]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/life_after_addiction_-_a_story_of_renewal_and_recovery_in_the_countryside-[jd28-FKH9ho]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/life_after_addiction_-_a_story_of_renewal_and_recovery_in_the_countryside-[jd28-FKH9ho]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

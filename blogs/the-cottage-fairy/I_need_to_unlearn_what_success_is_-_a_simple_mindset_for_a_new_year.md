@@ -12,7 +12,6 @@ nav_order: 33
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/I_need_to_unlearn_what_success_is_-_a_simple_mindset_for_a_new_year-[dY1ko9n3rd8]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 33
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/I_need_to_unlearn_what_success_is_-_a_simple_mindset_for_a_new_year-[dY1ko9n3rd8]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/I_need_to_unlearn_what_success_is_-_a_simple_mindset_for_a_new_year-[dY1ko9n3rd8]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/I_need_to_unlearn_what_success_is_-_a_simple_mindset_for_a_new_year-[dY1ko9n3rd8]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/I_need_to_unlearn_what_success_is_-_a_simple_mindset_for_a_new_year-[dY1ko9n3rd8]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

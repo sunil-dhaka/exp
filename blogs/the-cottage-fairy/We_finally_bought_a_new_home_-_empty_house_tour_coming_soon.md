@@ -12,7 +12,6 @@ nav_order: 56
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/We_finally_bought_a_new_home_-_empty_house_tour_coming_soon-[GzAANe1RWqE]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 56
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/We_finally_bought_a_new_home_-_empty_house_tour_coming_soon-[GzAANe1RWqE]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/We_finally_bought_a_new_home_-_empty_house_tour_coming_soon-[GzAANe1RWqE]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/We_finally_bought_a_new_home_-_empty_house_tour_coming_soon-[GzAANe1RWqE]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/We_finally_bought_a_new_home_-_empty_house_tour_coming_soon-[GzAANe1RWqE]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

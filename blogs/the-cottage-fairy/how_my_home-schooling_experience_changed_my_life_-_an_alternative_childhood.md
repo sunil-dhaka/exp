@@ -12,7 +12,6 @@ nav_order: 92
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/how_my_home-schooling_experience_changed_my_life_-_an_alternative_childhood-[fWNJmZAWRNg]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 92
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/how_my_home-schooling_experience_changed_my_life_-_an_alternative_childhood-[fWNJmZAWRNg]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/how_my_home-schooling_experience_changed_my_life_-_an_alternative_childhood-[fWNJmZAWRNg]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/how_my_home-schooling_experience_changed_my_life_-_an_alternative_childhood-[fWNJmZAWRNg]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/how_my_home-schooling_experience_changed_my_life_-_an_alternative_childhood-[fWNJmZAWRNg]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

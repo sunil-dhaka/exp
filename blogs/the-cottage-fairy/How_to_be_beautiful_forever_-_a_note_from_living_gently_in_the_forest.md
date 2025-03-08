@@ -12,7 +12,6 @@ nav_order: 16
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/How_to_be_beautiful_forever_-_a_note_from_living_gently_in_the_forest-[Q6QpSl6-CQw]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 16
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/How_to_be_beautiful_forever_-_a_note_from_living_gently_in_the_forest-[Q6QpSl6-CQw]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/How_to_be_beautiful_forever_-_a_note_from_living_gently_in_the_forest-[Q6QpSl6-CQw]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/How_to_be_beautiful_forever_-_a_note_from_living_gently_in_the_forest-[Q6QpSl6-CQw]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/How_to_be_beautiful_forever_-_a_note_from_living_gently_in_the_forest-[Q6QpSl6-CQw]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

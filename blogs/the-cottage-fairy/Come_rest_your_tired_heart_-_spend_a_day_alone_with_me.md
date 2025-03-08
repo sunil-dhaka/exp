@@ -12,7 +12,6 @@ nav_order: 3
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/Come_rest_your_tired_heart_-_spend_a_day_alone_with_me-[mTn_C-SyW84]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 3
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/Come_rest_your_tired_heart_-_spend_a_day_alone_with_me-[mTn_C-SyW84]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/Come_rest_your_tired_heart_-_spend_a_day_alone_with_me-[mTn_C-SyW84]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/Come_rest_your_tired_heart_-_spend_a_day_alone_with_me-[mTn_C-SyW84]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/Come_rest_your_tired_heart_-_spend_a_day_alone_with_me-[mTn_C-SyW84]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

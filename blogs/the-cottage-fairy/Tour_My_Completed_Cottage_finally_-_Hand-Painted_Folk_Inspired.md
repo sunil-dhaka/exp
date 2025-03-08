@@ -12,7 +12,6 @@ nav_order: 53
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/Tour_My_Completed_Cottage_finally_-_Hand-Painted_Folk_Inspired-[aT2sCd_8oEk]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 53
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/Tour_My_Completed_Cottage_finally_-_Hand-Painted_Folk_Inspired-[aT2sCd_8oEk]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/Tour_My_Completed_Cottage_finally_-_Hand-Painted_Folk_Inspired-[aT2sCd_8oEk]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/Tour_My_Completed_Cottage_finally_-_Hand-Painted_Folk_Inspired-[aT2sCd_8oEk]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/Tour_My_Completed_Cottage_finally_-_Hand-Painted_Folk_Inspired-[aT2sCd_8oEk]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

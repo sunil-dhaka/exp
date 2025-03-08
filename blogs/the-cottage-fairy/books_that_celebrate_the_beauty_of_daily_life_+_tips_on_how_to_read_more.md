@@ -12,7 +12,6 @@ nav_order: 74
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/books_that_celebrate_the_beauty_of_daily_life_+_tips_on_how_to_read_more-[4OcNQbqkMAs]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 74
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/books_that_celebrate_the_beauty_of_daily_life_+_tips_on_how_to_read_more-[4OcNQbqkMAs]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/books_that_celebrate_the_beauty_of_daily_life_+_tips_on_how_to_read_more-[4OcNQbqkMAs]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/books_that_celebrate_the_beauty_of_daily_life_+_tips_on_how_to_read_more-[4OcNQbqkMAs]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/books_that_celebrate_the_beauty_of_daily_life_+_tips_on_how_to_read_more-[4OcNQbqkMAs]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>

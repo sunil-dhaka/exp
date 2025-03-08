@@ -12,7 +12,6 @@ nav_order: 44
 <table align="center">
 	<tr>
 		<td align="center">
-<<<<<<< HEAD
 			<img src="../../assets/cottage_fairy_ai_generated_photos/My_Bookshelf_Tour_and_Home_Library_+_the_books_that_made_me_who_I_am-[quYxmKPOtlw]/generated_00.png" height="200" width="200"/>
 		</td>
 		<td align="center">
@@ -20,15 +19,6 @@ nav_order: 44
 		</td>
 		<td align="center">
 			<img src="../../assets/cottage_fairy_ai_generated_photos/My_Bookshelf_Tour_and_Home_Library_+_the_books_that_made_me_who_I_am-[quYxmKPOtlw]/generated_02.png" height="200" width="200"/>
-=======
-			<img src="../../posters/My_Bookshelf_Tour_and_Home_Library_+_the_books_that_made_me_who_I_am-[quYxmKPOtlw]/generated_00.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/My_Bookshelf_Tour_and_Home_Library_+_the_books_that_made_me_who_I_am-[quYxmKPOtlw]/generated_01.png" height="200" width="200"/>
-		</td>
-		<td align="center">
-			<img src="../../posters/My_Bookshelf_Tour_and_Home_Library_+_the_books_that_made_me_who_I_am-[quYxmKPOtlw]/generated_02.png" height="200" width="200"/>
->>>>>>> ffe52613361410ad9d371a0f80e81de4dd24175f
 		</td>
 	</tr>
 </table>
